@@ -1,0 +1,10 @@
+# system ignore
+.DS_Store
+Thumbs.db
+
+# ide
+.idea/
+
+# project
+build/bin
+options.json
